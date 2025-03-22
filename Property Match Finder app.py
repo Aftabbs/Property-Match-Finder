@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import re
-import gradio as gr
+import gradio as gr 
 from sklearn.preprocessing import MinMaxScaler
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
